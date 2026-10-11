@@ -45,8 +45,6 @@ else:
 
 # --- HEADER & KPI SUMMARY ---
 st.title("Brazilian E-Commerce Customer Analytics")
-st.caption("End-to-End Portfolio Project | Cohort Retention, RFM Segmentation & LTV Analysis")
-
 st.markdown("---")
 
 # Format angka revenue agar tidak kepotong (diubah ke jutaan / M)
