@@ -12,7 +12,7 @@ st.set_page_config(
 # --- LOAD DATA ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv('olist_processed_data.csv')
+    df = pd.read_csv('olist_customers_processed_data.csv')
     df['order_purchase_timestamp'] = pd.to_datetime(df['order_purchase_timestamp'])
     df['order_month'] = df['order_purchase_timestamp'].dt.to_period('M').astype(str)
     df['cohort_month'] = pd.to_datetime(df['order_purchase_timestamp']).groupby(df['customer_unique_id']).transform('min').dt.to_period('M').astype(str)
