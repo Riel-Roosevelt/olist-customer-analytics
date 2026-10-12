@@ -38,6 +38,6 @@ This project analyzes over 96,000+ delivered transactions to solve key customer 
 
 ## Project Artifacts & Visualizations
 
-* **Live Interactive Streamlit App:** [View Streamlit Dashboard](https://olist-customer-analytics-dsfpughs5aikxh22htdmgn.streamlit.app/) *(Ganti dengan link Streamlit milikmu)*
+* **Live Interactive Streamlit App:** [View Streamlit Dashboard](https://olist-customer-analytics-dsfpughs5aikxh22htdmgn.streamlit.app/)
 * **Power BI Executive Report:** Included in the project files as `Olist_Executive_Dashboard.pbix` for corporate BI overview.
 ---
