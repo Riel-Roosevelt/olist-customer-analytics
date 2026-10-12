@@ -1,10 +1,6 @@
 # Brazilian E-Commerce Customer Analytics & Retention Dashboard
 
 An end-to-end data analytics and data science project focused on customer retention, behavior segmentation, and lifetime value analysis using the **Brazilian E-Commerce Dataset (Olist)** from Google BigQuery.
----
-
-# Executive Summary
-
 This project analyzes over **96,000+ delivered transactions** to solve key customer retention challenges in an e-commerce platform. By leveraging SQL heavy-lifting in Google BigQuery, exploratory data analysis in Python, and interactive reporting via Streamlit and Power BI, this project provides actionable insights to drive customer lifetime value (LTV) and re-engagement strategies.
 ---
 
